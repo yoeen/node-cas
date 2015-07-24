@@ -1,4 +1,4 @@
-var url q= require('url'),
+var url = require('url'),
     http = require('http'),
     https = require('https'),
     parseXML = require('xml2js').parseString,
