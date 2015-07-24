@@ -1,0 +1,28 @@
+{
+  "name": "node-cas",
+  "version": "1.0.0",
+  "description": "node.js cas client",
+  "main": "cas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoeen/node-cas.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "cas",
+    "casclient"
+  ],
+  "author": "yoeen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoeen/node-cas/issues"
+  },
+  "homepage": "https://github.com/yoeen/node-cas",
+  "dependencies": {
+    "xml2js": "^0.4.9"
+  }
+}
